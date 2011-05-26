@@ -1,2 +1,4 @@
 ver 2.00
-ver 3.00ioiuouyo
+ver 3.00
+
+				ioiuouyo
